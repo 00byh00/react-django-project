@@ -1,0 +1,10 @@
+{
+    "editor.fontSize": 25,
+    "editor.tabSize": 3,
+    "terminal.integrated.fontSize": 22,
+    "window.zoomLevel": 0.3,
+    "[Log]": {
+      "editor.fontSize": 22
+    },    
+    
+}
